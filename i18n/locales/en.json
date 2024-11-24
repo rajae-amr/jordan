@@ -1,0 +1,56 @@
+{
+  "common": {
+    "appName": "Jordan Services",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "dashboard": "Dashboard",
+    "services": "Services",
+    "providers": "Service Providers",
+    "about": "About",
+    "contact": "Contact",
+    "search": "Search",
+    "notifications": "Notifications",
+    "messages": "Messages"
+  },
+  "packages": {
+    "title": "Service Provider Packages",
+    "description": "Choose the right package for you and start providing your services",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "features": "Features",
+    "subscribe": "Subscribe Now",
+    "popular": "Most Popular",
+    "basic": {
+      "name": "Basic Package",
+      "description": "Perfect for getting started",
+      "features": [
+        "Professional profile creation",
+        "Limited bookings",
+        "Basic support"
+      ]
+    },
+    "professional": {
+      "name": "Professional Package",
+      "description": "For professionals who want to grow their business",
+      "features": [
+        "All Basic package features",
+        "Unlimited bookings",
+        "Advanced statistics",
+        "Search result priority",
+        "24/7 support"
+      ]
+    },
+    "enterprise": {
+      "name": "Enterprise Package",
+      "description": "Complete solution for institutions and companies",
+      "features": [
+        "All Professional package features",
+        "Dedicated account manager",
+        "Monthly analytical reports",
+        "Free team training",
+        "VIP support"
+      ]
+    }
+  }
+}
